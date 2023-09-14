@@ -17,7 +17,7 @@ maps = googlemaps.Client(key=api_key)
 #park = maps.find_place('sunset lake park saline mi', 'textquery')
 #details = maps.place(park['candidates'][0]['place_id'])
 #park_name = details['result']['name']
-park_name = 'dlkjfdsfhjdslk'
+park_name = 'don\'t forget to reenable maps api requests, you goober'
 
 # check that the name is what it should be
 # change it back if not, then send notification
