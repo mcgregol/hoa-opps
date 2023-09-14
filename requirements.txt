@@ -1,2 +1,3 @@
 googlemaps
-selenium
+undetected_chromedriver
+schedule
